@@ -630,6 +630,18 @@ p {
 }
 
 /*---------End landscape style---------*/
+html {
+  font-size: calc(100vw / 450 * 50);
+}
+
 body {
   background: #000;
+}
+
+.bg-black {
+  background: #000;
+}
+
+.bg-white {
+  background: #fff;
 }
